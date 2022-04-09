@@ -8,7 +8,7 @@ const Bar=()=>{
             <Container>
             <Navbar.Brand href="#home">Time Waits For Nobody</Navbar.Brand>
             <Nav className="ms-auto">
-            <Nav.Link href="#pricing">Login</Nav.Link>
+            <Nav.Link onClick={()=>alert('Feature in progress')}>Login</Nav.Link>
             </Nav>
             </Container>
         </Navbar>
