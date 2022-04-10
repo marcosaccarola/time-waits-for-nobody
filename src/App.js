@@ -6,7 +6,7 @@ import Stopwatch from './components/02-Stopwatch';
 
 function App() {
   return (
-    <div className="">
+    <div className="Background">
       <header className="">
         <Bar />
         <Stopwatch />
